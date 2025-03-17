@@ -47,7 +47,7 @@ With EMS, users can contribute towards a **sustainable and energy-efficient futu
 🔹 **GitHub Issues** – Report bugs or request features: [Issue Tracker](https://github.com/ShreyJoshiBuilds/EMS/issues)  
 🔹 **Documentation** – Check our [Wiki](https://github.com/ShreyJoshiBuilds/EMS/wiki)  
 🔹 **Community Discussions** – Join the conversation on [Discussions](https://github.com/ShreyJoshiBuilds/EMS/discussions)  
-🔹 **Email Support** – Contact us at `support@emsproject.com`  
+🔹 **Email Support** – Contact us at `joshishrey64@gmail.com`  
 
 ---
 
